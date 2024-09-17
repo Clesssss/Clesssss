@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Richard Kamitono  
+Undergraduate Student at Petra Christian University  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/richard-kamitono-3255bb2b6)  
 <!--
 **Clesssss/Clesssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
